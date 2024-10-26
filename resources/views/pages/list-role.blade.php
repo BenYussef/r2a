@@ -3,7 +3,7 @@
 <section id="horizontal-form-layouts">
     <div class="row">
         <div class="col-md-12">
-            <div class="item-titre-all "><span class="text-uppercase">EVALFOURNISEUR  |</span> <span class="font-weight-normal">Prrofils & Permissions</span></div>
+            <div class="item-titre-all "><span class="text-uppercase">R2A  |</span> <span class="font-weight-normal">Prrofils & Permissions</span></div>
 
             <div class="card">
                 <div class="card-content collpase show">

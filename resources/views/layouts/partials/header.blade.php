@@ -7,7 +7,7 @@
     <link rel="icon" href="{{asset('assets/app-assets/images/logo/logo-lvdc2.png')}}" type="image/x-icon">
     <link rel="shortcut icon" href="{{asset('assets/app-assets/images/logo/logo-script.png')}}" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Muli:300,400,500,700" rel="stylesheet">
-    <title>EVALFOURNISEUR </title>
+    <title>R2A </title>
     <link rel="stylesheet" href="{{asset('assets/fontawesomepro/css/all.css')}}" />
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/selects/select2.min.css')}} ">
     

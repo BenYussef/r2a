@@ -1,7 +1,7 @@
 @if(auth()->user()->is_admin == 1)
 <div class="row" id="default">
     <div class="col-md-12">
-        <div class="item-titre-all "><span class="text-uppercase">EVALFOURNISEUR  |</span> <span class="font-weight-normal">Préferences</span></div>
+        <div class="item-titre-all "><span class="text-uppercase">R2A  |</span> <span class="font-weight-normal">Préferences</span></div>
         <div class="card">
             <div class="card-header">
                 <h4 class="card-title text-uppercase">

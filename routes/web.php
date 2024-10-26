@@ -20,7 +20,7 @@ use Illuminate\Support\Facades\Validator;
 |
 */
 
-//******** PROPRE A EVALFOURNISEUR**************//
+//******** PROPRE A R2A**************//
 //markme-AJOUT
 Route::get('/', 'HomeController@index');
 Route::get('auth', function (Request $request) {

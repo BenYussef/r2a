@@ -13,7 +13,7 @@
     <p>
         {{ $texte }}
     </p>
-    <div style="font-style: italic">EVALFOURNISEUR</div>
+    <div style="font-style: italic">R2A</div>
 
   </body>
 </html>

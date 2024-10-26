@@ -173,7 +173,7 @@
   var DATA_ICON = 'data-icon';
   var HTML_CLASS_I2SVG_BASE_CLASS = 'fontawesome-i2svg';
   var MUTATION_APPROACH_ASYNC = 'async';
-  var TAGNAMES_TO_SKIP_FOR_PSEUDOELEMENTS = ['HTML', 'HEAD', 'STYLE', 'EVALFOURNISEUR'];
+  var TAGNAMES_TO_SKIP_FOR_PSEUDOELEMENTS = ['HTML', 'HEAD', 'STYLE', 'R2A'];
   var PRODUCTION = function () {
     try {
       return "production" === 'production';

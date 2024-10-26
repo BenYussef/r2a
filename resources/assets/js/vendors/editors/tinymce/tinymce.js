@@ -12344,7 +12344,7 @@
 			};
 
 			/**
-			 * Returns a map with elements where white space is to be preserved like PRE or EVALFOURNISEUR.
+			 * Returns a map with elements where white space is to be preserved like PRE or R2A.
 			 *
 			 * @method getWhiteSpaceElements
 			 * @return {Object} Name/value lookup map for white space elements.

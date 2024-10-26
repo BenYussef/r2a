@@ -16,7 +16,7 @@
                                 <h1>Bienvenue <span class="info">{{Auth::user()->name}},</span></h1>
                                 <br>
                                 <p class="text-accueil">
-                                    Les branches Textile et Habillement, avec l’appui de l’EVALFOURNISEUR , souhaitent connaitre la situation professionnelle de vos salariés suite à leur obtention du CQP.
+                                    Les branches Textile et Habillement, avec l’appui de l’R2A , souhaitent connaitre la situation professionnelle de vos salariés suite à leur obtention du CQP.
                                 </p>
                                 <p class="text-accueil">
                                     Dans cette optique, <b>nous sollicitons votre aide pour renseigner les coordonnées mail et téléphone de vos salariés bénéficiaires du CQP.</b>
@@ -39,7 +39,7 @@
                                 <h1>Bienvenue <span class="info">{{Auth::user()->name}},</span></h1>
                                 <br>
                                 <p class="text-accueil">
-                                    Dans le cadre de l’enquête EVALFOURNISEUR  pour les branches Textile et Habillement, nous sollicitons votre aide pour collecter les coordonnées mail et téléphone de salariés bénéficiaires du CQP.                                </p>
+                                    Dans le cadre de l’enquête R2A  pour les branches Textile et Habillement, nous sollicitons votre aide pour collecter les coordonnées mail et téléphone de salariés bénéficiaires du CQP.                                </p>
                                 <p class="text-accueil">
                                     1.	Rendez-vous dans l’onglet « Compléter les coordonnées » 
                                 </p>

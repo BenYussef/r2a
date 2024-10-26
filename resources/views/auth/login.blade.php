@@ -16,7 +16,7 @@
                     <div class="card-title text-center">
                         <div class="p-1"><img src="{{ asset('assets/app-assets/images/logo/logo-lvdc2.png') }}"alt="branding logo"></div>
                     </div>
-                    <h6 class="card-subtitle line-on-side text-muted text-center font-small-3 pt-2"><span>CODIFICATION EVALFOURNISEUR</span></h6>
+                    <h6 class="card-subtitle line-on-side text-muted text-center font-small-3 pt-2"><span>CODIFICATION R2A</span></h6>
                 </div>
                 <div class="card-content">
                     <div class="card-body">
