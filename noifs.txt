@@ -1,0 +1,15 @@
+Notfications :
+
+    - Notifier au relecteur quand un superviseur lui alloue une nouvelle tache ou  modifie le quota (pourcentage)
+
+    - Notifier les superviseurs quand la tache CRON à mis à jour les données  : Cas au fil de l'eau
+
+    - Notifier au relecteur en cas de rajout de verbatims après tache cron
+
+    - Notifier aux superviseurs quand une r2a ou une codificatiion est terminée.
+
+    - Avertir les superviseurs par rapport au délais de restitution
+
+    - Notifier les relecteurs quand un plan de code a été mis à jour ou ajouté
+
+    - Notifier aux superviseur si un relecteur ajouté un code ou modifié un code au niveau du plan de code

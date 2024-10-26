@@ -1,0 +1,16 @@
+Catégories en gras 
+Rendre plus visible le formulaire 
+Bouton confirmer campagne 
+
+
+OKKK
+Ajouter ordre pour les compétences avec le drag and drop
+Calculer le nombre de compétences pour les catégories à remplacer par date création ok 
+Mettre le input en text
+Ajouter un controle sur la date de notification  lors de la création et en cas de odification vérifier si la date a changé et refaire le controle
+
+
+Ajouter Activer, déactiver pour périoes
+
+
+V2 : Sélectionner les utilisateurs dans la création de période 
